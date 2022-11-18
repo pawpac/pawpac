@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pawpac
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on HTML/CSS/JavaScript projects
 - 📫 How to reach me ... paw.pac@yahoo.com
 
